@@ -9,13 +9,6 @@ This repository contains my solutions to the 2024 Advent of Code puzzles. The ch
 
 Feel free to explore the solutions, share feedback, or use them for inspiration in tackling your own Advent of Code journey!
 
-## 🎄 Festive Tree
-
-   🎄
-  🎄🎄
- 🎄🎄🎄
-   🎁
-
 ---
 
 Happy coding and enjoy the magic of the season! 🎄✨
